@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------
 # Dockefile to build Docker Image of Apache WebServer running on Ubuntu
 #
-# Made by mirik Astahov ADV-IT  13-March-2019
+# Made by mirik  ADV-IT  12-May-2023
 #---------------------------------------------------------------------------
 
 FROM ubuntu:16.04
