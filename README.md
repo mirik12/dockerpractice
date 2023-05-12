@@ -1,2 +1,0 @@
-# dockerpractice
-run docker
